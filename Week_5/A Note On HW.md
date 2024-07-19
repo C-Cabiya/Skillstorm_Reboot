@@ -1,0 +1,2 @@
+### A note on this week
+I've included the work for the nodes calculations as a png, but I'll not be putting the Spark Homework in the GitHub, as you're already able to see it in my folder. If you'd prefer I put it in the GitHub instead, let me know.
